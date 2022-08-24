@@ -39,6 +39,32 @@ a:hover{
     padding: 10px;
 }
 
+#principal{
+    width: 920px;
+    margin: 20px auto;
+}
+
+#postagens{
+    background-color: white;
+    width: 660px;
+    float: left;
+}
+
+#lateral{
+    background-color: white;
+    width: 240px;
+    float: right;
+}
+
+#rodape{
+    clear: both;
+    background-color: rgb(195, 195, 195);
+}
+
+.conteudo{
+    padding: 15px;
+}
+
 .branco{
     color: white;
 }
